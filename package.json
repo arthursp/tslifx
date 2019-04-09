@@ -1,6 +1,6 @@
 {
   "name": "tslifx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library to control lifx lights over node & typescript",
   "main": "dist/LIFX.js",
   "types": "dist/LIFX.d.ts",
