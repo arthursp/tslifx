@@ -1,15 +1,15 @@
-# @arthursp/lifxapi
+# tslifx
 A Node.js module that allow you to control lifx lights over typescript
 
 ## Installation
 ```sh
-npm install @arthursp/lifxapi --save
+npm install tslifx --save
 ```
 
 ## Usage
 ### Typescript
 ```typescript
-import { Lifx } from '@arthursp/lifxapi';
+import { Lifx } from 'tslifx';
 
 var LifxClient = new Lifx('your_lifx_token');
 var lights = await LifxClient.getAllLights();
