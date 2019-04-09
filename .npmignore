@@ -1,0 +1,10 @@
+src
+test
+__mocks__
+node_modules
+tsconfig.json
+tslint.json
+.prettierrc
+.gitignore
+README.md
+jest.config.js
